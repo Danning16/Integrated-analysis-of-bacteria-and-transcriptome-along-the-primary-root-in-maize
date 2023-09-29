@@ -11,3 +11,7 @@ CK_WT_ST1_3,CK,WT,ST1,Ro,3
 CK_mt_ST1_1,CK,mt,ST1,Ro,1
 CK_mt_ST1_2,CK,mt,ST1,Ro,2
 CK_mt_ST1_3,CK,mt,ST1,Ro,3
+# treatment: CK-Control
+# genotype: WT-B73, mt-rtcs
+# stage: ST1-seedling stage, ST2-flowering stage
+# Compartment: Ro-Root
