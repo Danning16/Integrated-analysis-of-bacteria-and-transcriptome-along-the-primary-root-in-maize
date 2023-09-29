@@ -1,0 +1,13 @@
+SampleID,treatment,genotype,stage,compartment,replicate
+CK_WT_ST2_1,CK,WT,ST2,Ro,1
+CK_WT_ST2_2,CK,WT,ST2,Ro,2
+CK_WT_ST2_3,CK,WT,ST2,Ro,3
+CK_mt_ST2_1,CK,mt,ST2,Ro,1
+CK_mt_ST2_2,CK,mt,ST2,Ro,2
+CK_mt_ST2_3,CK,mt,ST2,Ro,3
+CK_WT_ST1_1,CK,WT,ST1,Ro,1
+CK_WT_ST1_2,CK,WT,ST1,Ro,2
+CK_WT_ST1_3,CK,WT,ST1,Ro,3
+CK_mt_ST1_1,CK,mt,ST1,Ro,1
+CK_mt_ST1_2,CK,mt,ST1,Ro,2
+CK_mt_ST1_3,CK,mt,ST1,Ro,3
